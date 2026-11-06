@@ -18,6 +18,9 @@ ECMS is a PHP and MySQL web application for managing education-related complaint
 7. Sign in at `http://localhost/ecms_v1/`.
 8. Use Administrator > Manage users to create MPP Welfare and Staff Department accounts. Students can register from the login page and wait for Administrator activation.
 
+
+Link to make administrator account: http://localhost/ecms_v1/setup_admin.php
+
 The database installer is intended for an empty local database. Do not import it into a database containing data you need to keep.
 
 ## Main workflow
