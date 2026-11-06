@@ -1,0 +1,7 @@
+.DS_Store
+config/database.php
+uploads/*
+!uploads/.htaccess
+*.log
+*.bak
+*.tmp

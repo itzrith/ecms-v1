@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ECMS</title>
+  <defs>
+    <linearGradient id="mark" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3478e5"/>
+      <stop offset="1" stop-color="#1249a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="19" fill="url(#mark)"/>
+  <path d="m14 26 18-11 18 11v22H14V26Z" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-linejoin="round" stroke-width="2.5"/>
+  <path d="M20 29h24M20 35h24M20 41h24" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <path d="m43 17 7-4" stroke="#a9e5cd" stroke-linecap="round" stroke-width="4"/>
+</svg>
